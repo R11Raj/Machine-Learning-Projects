@@ -3,5 +3,5 @@ A repository containing codes,data and results of various Machine Learning Proje
 
 # Projects Done So Far
 <ul>
-  <li>Diabetes Prediction - click here to view code</a>(https://google.com) <li>
+  <li>Diabetes Prediction - click here to view code</a>(https://github.com/rajr11/Machine-Learning-Projects/tree/master/Diabetes%20Prediction) <li>
   
